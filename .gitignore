@@ -1,0 +1,31 @@
+# Source for the following rules: https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# VS Code
+.vscode
+
+# Files that are to big
+hn_stories_2014.json
+lahman2015.sqlite
+wiki_content.txt
+wiki_content_extracted.txt
+
+# Folder with to much info
+prices/
+WikiPages/
