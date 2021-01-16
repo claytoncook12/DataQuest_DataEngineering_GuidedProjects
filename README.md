@@ -1,5 +1,5 @@
 # DataQuest_DataEngineering_GuidedProjects
-Collecton of Guided Projects that were completed from the DataQuest,io Data Engineering carrer path.
+Collecton of Guided Projects that were completed from the [DataQuest.io](https://www.dataquest.io/) Data Engineering carrer path.
 
 I completed the program on December 29th, 2020. 
 
@@ -7,21 +7,20 @@ Certificate of completion is located [here](https://app.dataquest.io/view_cert/N
 
 The Topics that were covered in the program and assoicated guided projects were:
   - Introduction to Python
-    - [Python Fundamentals](/Guided Project - Profitable App Profiles for the App Store and Google Play Markets.ipynb)
-    - [Python Intermediate](Guided Project - Exploring Hacker News Posts.ipynb)
+    - [Python Fundamentals](Guided%20Project%20-%20Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb)
+    - [Python Intermediate](Guided%20Project%20-%20Hacker%20News%20Pipeline.ipynb)
   - Introduction to Algorithms
-    - [Algorithum Complexity] (Guided Project - Building Fast Queries on a CSV.ipynb)
+    - [Algorithum Complexity](Guided%20Project%20-%20Building%20Fast%20Queries%20on%20a%20CSV.ipynb)
   - Working with Data Sources
-    - [SQL Fundamentals](Guided Project - Analyzing CIA Factbook Data Using SQL.ipynb)
-    - [Intermediate SQL](Guided Project - Answering Business Questions using SQL.ipynb)
+    - [SQL Fundamentals](Guided%20Project%20-%20Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb)
+    - [Intermediate SQL](Guided%20Project%20-%20Answering%20Business%20Questions%20using%20SQL.ipynb)
   - Production Databases
-    - [Postgress for Data Engineers](Guided Project - Building a database for crime reports.ipynb)
+    - [Postgress for Data Engineers](Guided%20Project%20-%20Building%20a%20database%20for%20crime%20reports.ipynb)
   - Handling Large Data Sets in Python
-    - [Processing Large Datasets in Pandas #1](Guided Project - Practice Optimizing Dataframes and Processing in Chunks.ipynb
-)
-    - [Processing Large Datasets in Pandas #2](Guided Project - Analyzing Startup Fundraising Deals from Crunchbase.ipynb)
-    - [Optimizing Code Performance on Large Datasets](Guided Project - Analyzing Wikipedia Pages.ipynb)
-    - [Algorithms and Data Structures](Guided Project - Analyzing Stock Prices.ipynb)
-    - [Recursion and Trees](Guided Project - Implementing A Key-Value Database.ipynb)
+    - [Processing Large Datasets in Pandas #1](Guided%20Project%20-%20Practice%20Optimizing%20Dataframes%20and%20Processing%20in%20Chunks.ipynb)
+    - [Processing Large Datasets in Pandas #2](Guided%20Project%20-%20Analyzing%20Startup%20Fundraising%20Deals%20from%20Crunchbase.ipynb)
+    - [Optimizing Code Performance on Large Datasets](Guided%20Project%20-%20Analyzing%20Wikipedia%20Pages.ipynb)
+    - [Algorithms and Data Structures](Guided%20Project%20-%20Analyzing%20Stock%20Prices.ipynb)
+    - [Recursion and Trees](Guided%20Project%20-%20Implementing%20A%20Key-Value%20Database.ipynb)
   - Data Pipelines
-    - [Building a Data Pipeline](Guided Project - Hacker News Pipeline.ipynb)
+    - [Building a Data Pipeline](Guided%20Project%20-%20Hacker%20News%20Pipeline.ipynb)
