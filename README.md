@@ -7,7 +7,7 @@ Certificate of completion is located [here](https://app.dataquest.io/view_cert/N
 
 The Topics that were covered in the program and assoicated guided projects were:
   - Introduction to Python
-    - [Python Fundamentals](Guided Project - Profitable App Profiles for the App Store and Google Play Markets.ipynb)
+    - [Python Fundamentals](/Guided Project - Profitable App Profiles for the App Store and Google Play Markets.ipynb)
     - [Python Intermediate](Guided Project - Exploring Hacker News Posts.ipynb)
   - Introduction to Algorithms
     - [Algorithum Complexity] (Guided Project - Building Fast Queries on a CSV.ipynb)
